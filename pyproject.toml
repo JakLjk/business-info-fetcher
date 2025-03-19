@@ -1,0 +1,19 @@
+[project]
+name = "business-info-fetcher"
+version = "0.1.0"
+description = "fetching business data, such as company names and financial statements from official govenment sites"
+authors = [
+    {name = "Pomeran",email = "lejk99@icloud.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "requests (>=2.32.3,<3.0.0)"
+]
+
+[tool.poetry]
+packages = [{include = "business_info_fetcher"}]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
