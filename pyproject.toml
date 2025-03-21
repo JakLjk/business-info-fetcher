@@ -11,12 +11,19 @@ dependencies = [
     "requests (>=2.32.3,<3.0.0)",
     "rq (>=2.1.0,<3.0.0)",
     "redis (>=5.2.1,<6.0.0)",
-    "flask (>=3.1.0,<4.0.0)"
+    "flask (>=3.1.0,<4.0.0)",
 ]
 
 [tool.poetry]
 packages = [{include = "business_info_fetcher", from = "src"}]
 
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.5"
+
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+
+[tool.pytest.ini_options]
+pythonpath = "src"
