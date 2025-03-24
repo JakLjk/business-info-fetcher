@@ -1,0 +1,208 @@
+|QUEUE_INIT_LOG| 2025-03-23 20:23:52,831 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:23:52,831 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:23:52,831 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:23:52,831 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:23:52,835 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:23:52,852 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:23:52,852 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:23:52,852 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:23:58,532 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:23:58,532 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:23:58,532 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:23:58,532 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:23:58,532 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:23:58,537 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:23:58,538 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:23:58,538 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:24:48,222 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:24:48,222 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:24:48,222 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:24:48,222 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:24:48,222 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:24:48,227 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:24:48,227 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:24:48,227 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:25:04,262 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:25:04,263 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:25:04,263 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:25:04,263 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:25:04,263 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:25:04,267 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:25:04,267 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:25:04,267 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:25:21,077 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:25:21,079 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:25:21,079 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:25:21,079 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:25:21,079 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:25:21,084 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:25:21,085 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:25:21,085 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:25:27,674 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:25:27,675 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:25:27,675 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:25:27,675 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:25:27,675 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:25:27,680 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:25:27,680 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:25:27,681 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:25:34,264 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:25:34,264 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:25:34,264 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:25:34,264 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:25:34,264 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:25:34,268 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:25:34,268 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:25:34,268 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:25:42,929 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:25:42,930 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:25:42,930 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:25:42,930 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:25:42,930 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:25:42,935 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:25:42,935 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:25:42,935 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:25:46,308 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:25:46,308 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:25:46,308 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:25:46,308 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:25:46,308 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:25:46,316 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:25:46,316 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:25:46,316 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:26:52,897 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:26:52,898 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:26:52,898 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:26:52,898 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:26:52,898 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:26:52,901 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:26:52,901 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:26:52,902 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:26:53,057 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:26:53,058 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:26:53,058 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:26:53,058 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:26:53,058 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:26:53,061 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:26:53,061 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:26:53,061 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:29:22,669 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:29:22,670 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:29:22,670 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:29:22,670 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:29:22,670 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:29:22,678 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:29:22,678 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:29:22,678 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:30:23,954 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:30:23,954 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:30:23,954 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:30:23,954 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:30:23,954 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:30:23,963 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:30:23,963 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:30:23,963 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:30:35,296 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:30:35,297 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:30:35,297 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:30:35,297 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:30:35,297 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:30:35,301 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:30:35,301 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:30:35,301 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:30:35,458 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:30:35,458 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:30:35,458 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:30:35,458 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:30:35,458 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:30:35,462 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:30:35,462 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:30:35,462 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:31:12,481 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:31:12,482 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:31:12,482 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:31:12,482 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:31:12,482 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:31:12,486 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:31:12,486 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:31:12,486 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:34:05,566 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:34:05,568 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:34:05,568 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:34:05,568 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:34:05,568 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:34:05,576 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:34:05,576 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:34:05,576 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:35:37,809 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:35:37,810 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:35:37,810 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:35:37,810 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:35:37,810 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:35:37,814 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:35:37,814 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:35:37,814 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:35:37,967 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:35:37,967 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:35:37,967 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:35:37,967 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:35:37,967 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:35:37,972 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:35:37,972 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:35:37,972 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:36:44,047 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:36:44,047 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:36:44,047 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:36:44,047 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:36:44,047 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:36:44,054 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:36:44,054 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:36:44,054 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:37:24,221 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:37:24,221 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:37:24,221 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:37:24,221 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:37:24,221 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:37:24,224 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:37:24,224 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:37:24,224 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:38:12,726 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:38:12,727 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:38:12,727 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:38:12,727 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:38:12,727 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:38:12,733 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:38:12,733 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:38:12,733 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:38:20,927 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:38:20,927 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:38:20,927 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:38:20,927 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:38:20,927 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:38:20,930 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:38:20,930 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:38:20,930 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:38:21,079 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:38:21,079 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:38:21,079 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:38:21,079 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:38:21,080 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:38:21,082 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:38:21,082 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:38:21,082 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:47:37,046 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:47:37,610 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:47:37,611 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:47:37,611 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:47:37,612 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:47:37,626 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:47:37,626 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:47:37,626 - INFO - Queues initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:47:45,113 - INFO - QUEUE_INIT_LOG initialised
+|QUEUE_INIT_LOG| 2025-03-23 20:47:45,113 - INFO - Queue initialisation log initialised.
+|QUEUE_INIT_LOG| 2025-03-23 20:47:45,114 - INFO - Initialising connection with redis
+|QUEUE_INIT_LOG| 2025-03-23 20:47:45,114 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|QUEUE_INIT_LOG| 2025-03-23 20:47:45,114 - INFO - Checking connection with redis server
+|QUEUE_INIT_LOG| 2025-03-23 20:47:45,118 - INFO - Connection with redis server established
+|QUEUE_INIT_LOG| 2025-03-23 20:47:45,118 - INFO - Initialising queues
+|QUEUE_INIT_LOG| 2025-03-23 20:47:45,118 - INFO - Queues initialised

@@ -1,0 +1,188 @@
+|WORKER_LOG| 2025-03-23 19:03:58,156 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 19:03:58,156 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 19:03:58,156 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 19:03:58,156 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 19:03:58,156 - INFO - Starting worker in queues: P['krs_api_queue']
+|WORKER_LOG| 2025-03-23 19:05:50,452 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 19:05:50,452 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 19:05:50,453 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 19:05:50,453 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 19:05:50,453 - INFO - Starting worker in queues: P['krs_api_queue']
+|WORKER_LOG| 2025-03-23 19:26:56,986 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 19:26:56,987 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 19:26:56,987 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 19:26:56,988 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 19:26:56,989 - INFO - Starting worker in queues: ['krs_api_queue']
+|WORKER_LOG| 2025-03-23 19:37:37,150 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 19:37:37,150 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 19:37:37,150 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 19:37:37,150 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 19:37:37,150 - INFO - Starting worker in queues: ['krs_api_queue']
+|WORKER_LOG| 2025-03-23 19:42:01,515 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 19:42:01,515 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 19:42:01,515 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 19:42:01,516 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 19:42:01,516 - INFO - Starting worker in queues: ['krs_api_queue']
+|WORKER_LOG| 2025-03-23 19:43:58,558 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 19:43:58,559 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 19:43:58,559 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 19:43:58,559 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 19:43:58,559 - INFO - Checking connection with redis server
+|WORKER_LOG| 2025-03-23 19:43:58,562 - INFO - Starting worker in queues: ['krs_api_queue']
+|WORKER_LOG| 2025-03-23 19:44:24,341 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 19:44:24,341 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 19:44:24,341 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 19:44:24,341 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 19:44:24,341 - INFO - Checking connection with redis server
+|WORKER_LOG| 2025-03-23 19:44:24,343 - DEBUG - True
+|WORKER_LOG| 2025-03-23 19:44:24,344 - INFO - Starting worker in queues: ['krs_api_queue']
+|WORKER_LOG| 2025-03-23 19:50:13,877 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 19:50:13,878 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 19:50:13,878 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 19:50:13,879 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 19:50:13,879 - INFO - Checking connection with redis server
+|WORKER_LOG| 2025-03-23 19:50:13,882 - DEBUG - True
+|WORKER_LOG| 2025-03-23 19:50:13,882 - INFO - Starting worker in queues: ['krs_api_queue']
+|WORKER_LOG| 2025-03-23 19:52:15,974 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 19:52:15,975 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 19:52:15,975 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 19:52:15,977 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 19:52:15,978 - INFO - Checking connection with redis server
+|WORKER_LOG| 2025-03-23 19:52:15,991 - DEBUG - True
+|WORKER_LOG| 2025-03-23 19:52:15,991 - INFO - Starting worker in queues: ['krs_api_queue']
+|WORKER_LOG| 2025-03-23 19:58:52,150 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 19:58:52,150 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 19:58:52,150 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 19:58:52,150 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 19:58:52,151 - INFO - Checking connection with redis server
+|WORKER_LOG| 2025-03-23 19:58:52,159 - DEBUG - True
+|WORKER_LOG| 2025-03-23 19:58:52,159 - INFO - Starting worker in queues: ['krs_api_queue']
+|WORKER_LOG| 2025-03-23 20:00:28,977 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 20:00:28,977 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 20:00:28,977 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 20:00:28,978 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 20:00:28,978 - INFO - Redis server address:  redis://192.168.0.48:6379
+|WORKER_LOG| 2025-03-23 20:00:28,978 - INFO - Checking connection with redis server
+|WORKER_LOG| 2025-03-23 20:00:28,982 - DEBUG - True
+|WORKER_LOG| 2025-03-23 20:00:28,982 - INFO - Starting worker in queues: ['krs_api_queue']
+|WORKER_LOG| 2025-03-23 20:02:43,578 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 20:02:43,579 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 20:02:43,579 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 20:02:43,579 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 20:02:43,579 - INFO - Redis server address:  redis://192.168.0.48:6379
+|WORKER_LOG| 2025-03-23 20:02:43,579 - INFO - Checking connection with redis server
+|WORKER_LOG| 2025-03-23 20:02:50,227 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 20:02:50,228 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 20:02:50,228 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 20:02:50,228 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 20:02:50,228 - INFO - Redis server address:  redis://192.168.0.48:6379
+|WORKER_LOG| 2025-03-23 20:02:50,228 - INFO - Checking connection with redis server
+|WORKER_LOG| 2025-03-23 20:02:50,240 - DEBUG - True
+|WORKER_LOG| 2025-03-23 20:02:50,240 - INFO - Starting worker in queues: ['krs_api_queue']
+|WORKER_LOG| 2025-03-23 20:03:48,186 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 20:03:48,186 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 20:03:48,186 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 20:03:48,186 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 20:03:48,186 - INFO - Redis server address:  redis://192.168.0.48:6379
+|WORKER_LOG| 2025-03-23 20:03:48,186 - INFO - Checking connection with redis server
+|WORKER_LOG| 2025-03-23 20:03:48,191 - DEBUG - True
+|WORKER_LOG| 2025-03-23 20:03:48,191 - INFO - Starting worker in queues: ['krs_api_queue']
+|WORKER_LOG| 2025-03-23 20:04:49,987 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 20:04:49,987 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 20:04:49,987 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 20:04:49,988 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 20:04:49,988 - INFO - Redis server address:  redis://192.168.0.48:6379
+|WORKER_LOG| 2025-03-23 20:04:49,988 - INFO - Checking connection with redis server
+|WORKER_LOG| 2025-03-23 20:04:50,003 - DEBUG - True
+|WORKER_LOG| 2025-03-23 20:04:50,003 - INFO - Starting worker in queues: ['krs_api_queue']
+|WORKER_LOG| 2025-03-23 20:06:52,834 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 20:06:52,834 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 20:06:52,834 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 20:06:52,834 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 20:06:52,834 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|WORKER_LOG| 2025-03-23 20:06:52,835 - INFO - Checking connection with redis server
+|WORKER_LOG| 2025-03-23 20:06:52,839 - DEBUG - True
+|WORKER_LOG| 2025-03-23 20:06:52,839 - INFO - Starting worker in queues: ['krs_api_queue']
+|WORKER_LOG| 2025-03-23 20:08:02,546 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 20:08:02,547 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 20:08:02,547 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 20:08:02,547 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 20:08:02,547 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|WORKER_LOG| 2025-03-23 20:08:02,547 - INFO - Checking connection with redis server
+|WORKER_LOG| 2025-03-23 20:08:02,554 - DEBUG - True
+|WORKER_LOG| 2025-03-23 20:08:02,554 - INFO - Starting worker in queues: ['krs_api_queue']
+|WORKER_LOG| 2025-03-23 20:10:38,305 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 20:10:38,307 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 20:10:38,307 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 20:10:38,307 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 20:10:38,307 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|WORKER_LOG| 2025-03-23 20:10:38,307 - INFO - Checking connection with redis server
+|WORKER_LOG| 2025-03-23 20:10:38,314 - DEBUG - True
+|WORKER_LOG| 2025-03-23 20:10:38,314 - INFO - Starting worker in queues: ['krs_api_queue']
+|WORKER_LOG| 2025-03-23 20:16:31,984 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 20:16:31,987 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 20:16:31,989 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 20:17:06,645 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 20:17:06,645 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 20:17:06,645 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 20:17:06,646 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 20:17:06,646 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|WORKER_LOG| 2025-03-23 20:17:06,646 - INFO - Checking connection with redis server
+|WORKER_LOG| 2025-03-23 20:17:06,653 - DEBUG - True
+|WORKER_LOG| 2025-03-23 20:17:06,653 - INFO - Starting worker in queues: ['queue_krs_api']
+|WORKER_LOG| 2025-03-23 20:17:22,733 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 20:17:22,735 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 20:17:22,735 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 20:17:22,735 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 20:17:22,735 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|WORKER_LOG| 2025-03-23 20:17:22,735 - INFO - Checking connection with redis server
+|WORKER_LOG| 2025-03-23 20:17:22,740 - DEBUG - True
+|WORKER_LOG| 2025-03-23 20:17:22,740 - INFO - Starting worker in queues: ['queue_krs_api']
+|WORKER_LOG| 2025-03-23 20:17:40,948 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 20:17:40,948 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 20:17:40,949 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 20:17:40,949 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 20:17:40,949 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|WORKER_LOG| 2025-03-23 20:17:40,949 - INFO - Checking connection with redis server
+|WORKER_LOG| 2025-03-23 20:17:40,952 - DEBUG - True
+|WORKER_LOG| 2025-03-23 20:17:40,952 - INFO - Starting worker in queues: ['queue_krs_api']
+|WORKER_LOG| 2025-03-23 20:26:51,096 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 20:26:51,097 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 20:26:51,097 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 20:26:51,098 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 20:26:51,098 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|WORKER_LOG| 2025-03-23 20:26:51,098 - INFO - Checking connection with redis server
+|WORKER_LOG| 2025-03-23 20:26:51,103 - DEBUG - True
+|WORKER_LOG| 2025-03-23 20:26:51,103 - INFO - Starting worker in queues: ['queue_krs_api']
+|WORKER_LOG| 2025-03-23 20:28:25,179 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 20:28:25,181 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 20:28:25,181 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 20:28:25,182 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 20:28:25,182 - INFO - Redis server address:  redis://192.168.0.48:6379/0
+|WORKER_LOG| 2025-03-23 20:28:25,182 - INFO - Checking connection with redis server
+|WORKER_LOG| 2025-03-23 20:28:25,196 - DEBUG - True
+|WORKER_LOG| 2025-03-23 20:28:25,197 - INFO - Starting worker in queues: ['queue_krs_api']
+|WORKER_LOG| 2025-03-23 20:38:19,112 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 20:38:19,113 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 20:38:19,113 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 20:38:19,113 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 20:38:19,113 - INFO - Redis server address: redis://192.168.0.48:6379/0
+|WORKER_LOG| 2025-03-23 20:38:19,113 - INFO - Checking connection with redis server
+|WORKER_LOG| 2025-03-23 20:38:19,119 - DEBUG - True
+|WORKER_LOG| 2025-03-23 20:38:19,119 - INFO - Starting worker in queues: ['queue_krs_api']
+|WORKER_LOG| 2025-03-23 20:45:47,244 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 20:45:47,246 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 20:45:47,247 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 20:45:47,249 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 20:45:47,249 - INFO - Redis server address: redis://192.168.0.48:6379/0
+|WORKER_LOG| 2025-03-23 20:45:47,250 - INFO - Checking connection with redis server
+|WORKER_LOG| 2025-03-23 20:45:47,269 - DEBUG - True
+|WORKER_LOG| 2025-03-23 20:45:47,270 - INFO - Starting worker in queues: ['queue_krs_api']
+|WORKER_LOG| 2025-03-23 20:46:21,128 - INFO - WORKER_LOG initialised
+|WORKER_LOG| 2025-03-23 20:46:21,129 - INFO - Initialising worker
+|WORKER_LOG| 2025-03-23 20:46:21,129 - INFO - Reading command line arguments
+|WORKER_LOG| 2025-03-23 20:46:21,130 - INFO - Initialising connection with redis
+|WORKER_LOG| 2025-03-23 20:46:21,130 - INFO - Redis server address: redis://192.168.0.48:6379/0
+|WORKER_LOG| 2025-03-23 20:46:21,130 - INFO - Checking connection with redis server
+|WORKER_LOG| 2025-03-23 20:46:21,137 - DEBUG - True
+|WORKER_LOG| 2025-03-23 20:46:21,137 - INFO - Starting worker in queues: ['queue_krs_api']

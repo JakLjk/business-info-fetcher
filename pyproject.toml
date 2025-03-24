@@ -12,10 +12,11 @@ dependencies = [
     "rq (>=2.1.0,<3.0.0)",
     "redis (>=5.2.1,<6.0.0)",
     "flask (>=3.1.0,<4.0.0)",
+    "dotenv (>=0.9.9,<0.10.0)",
 ]
 
 [tool.poetry]
-packages = [{include = "business_info_fetcher", from = "src"}]
+packages = [{include = "src"}]
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.3.5"
@@ -24,6 +25,10 @@ pytest = "^8.3.5"
 requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
 
-
 [tool.pytest.ini_options]
 pythonpath = "src"
+
+
+[tool.poetry.scripts]
+worker-init = "src.application.worker_init:main"
+app-init = "src.application.app_init:main"
