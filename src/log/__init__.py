@@ -16,7 +16,7 @@ def setup_logger(name:str,
     
     if filename:
         path_to_log_folder = pathlib.Path(__file__).parent.resolve()
-        path_to_log_folder = f"{path_to_log_folder}/LOGS/{filename}"
+        path_to_log_folder = f"{path_to_log_folder}/LOGS/{filename}.log"
         fh = RotatingFileHandler(path_to_log_folder,
                                 mode='a', 
                                 maxBytes=max_file_size_megabytes * 1024 * 1024,

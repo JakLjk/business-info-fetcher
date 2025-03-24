@@ -1,13 +1,14 @@
 import uuid
 import time
 import os
+import logging
 from dotenv import load_dotenv
 from flask import Blueprint, request, jsonify
 
 from src.business_info_fetcher import scrape_krs_api
 from src.application.queues import queue_krs_api
 from src.log import setup_logger
-import logging
+
 
 setup_logger("ROUTES_LOG", "ROUTES_LOG")
 route_log = logging.getLogger("ROUTES_LOG")
@@ -19,7 +20,7 @@ webhook_bp = Blueprint('webhook', __name__)
 timeout =int(os.getenv("SERVER_SCRAPE_RESPONSE_TIMEOUT"))
 
 @webhook_bp.route("/get-krs-api-json", methods=["GET"])
-def webhook():
+def webhook_get_krs_api():
     route_log.info("Received request to get KRS API JSON")
     type_of_report = request.args.get("type_of_report")
     krs_number = request.args.get("krs_number")
@@ -42,7 +43,7 @@ def webhook():
     while not job.is_finished:
         t+=1
         if job.is_failed:
-            route_log.error(f"Job {job_id} failed")
+            route_log.error(f"Job {job_id} failed", str(job.exc_info))
             return jsonify({"status": "Job failed", "details": str(job.exc_info)}), 500
         if t>timeout:
             route_log.error(f"Job {job_id} timeout")
@@ -53,3 +54,6 @@ def webhook():
     route_log.info(f"Job {job_id} finished")
     return jsonify({"status": "Job finished", "result": job.result}), 200
 
+@webhook_bp.route("/get-krs-dokumenty-finansowe", methods=["GET"])
+def webhook_get_krs__dokumenty_finansowe():
+    return "x"
