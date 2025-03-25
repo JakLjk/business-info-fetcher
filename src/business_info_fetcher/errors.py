@@ -12,3 +12,7 @@ class BusinessSiteNotLoaded(Exception):
     def __init__(self, *args):
         super().__init__(*args)
 
+
+class WebpageThrottlingError(Exception):
+    def __init__(self, *args):
+        super().__init__(*args)

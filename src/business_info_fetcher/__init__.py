@@ -1,2 +1,2 @@
-from .krajowy_rejestr_sadowy import scrape_krs_api, scrape_krs_dokumenty_finansowe
+from .krajowy_rejestr_sadowy import scrape_krs_api, scrape_krs_dokumenty_finansowe_document_list
 
