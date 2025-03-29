@@ -39,7 +39,8 @@ def main():
     except ConnectionError as ce:
         raise ce
     work_log.info(f"Starting worker in queues: {queue_names}")
-    worker = Worker(queue_names, connection=redis_conn)
+    worker = Worker(queue_names, 
+                    connection=redis_conn)
     worker.work()
 
 

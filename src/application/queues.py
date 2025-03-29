@@ -21,6 +21,12 @@ except ConnectionError as ce:
     raise ce
 queue_log.info("Connection with redis server established")
 queue_log.info("Initialising queues")
-queue_krs_api = Queue('queue_krs_api',connection=redis_conn)
-queue_krs_dokumenty_finansowe = Queue('queue_krs_dokumenty_finansowe', connection=redis_conn)
+timeout = int(os.getenv("RQ_WORKER_TIMEOUT"))
+queue_log.info(f"Setting queue job value timeout to: {timeout}")
+queue_krs_api = Queue('queue_krs_api',
+                      connection=redis_conn, 
+                      default_timeout=timeout)
+queue_krs_dokumenty_finansowe = Queue('queue_krs_dokumenty_finansowe', 
+                                      connection=redis_conn, 
+                                      default_timeout=timeout)
 queue_log.info("Queues initialised")

@@ -1,6 +1,4 @@
 import logging
-import os
-from dotenv import load_dotenv
 from redis import Redis
 from rq import Worker, Queue
 from flask import Flask

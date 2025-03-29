@@ -16,3 +16,16 @@ class BusinessSiteNotLoaded(Exception):
 class WebpageThrottlingError(Exception):
     def __init__(self, *args):
         super().__init__(*args)
+
+
+class NoDataToScrape(Exception):
+    def __init__(self, *args):
+        super().__init__(*args)
+
+class WebpageSessionExpired(Exception):
+    def __init__(self, *args):
+        super().__init__(*args)
+
+class DocumentNotFound(Exception):
+    def __init__(self, *args):
+        super().__init__(*args)

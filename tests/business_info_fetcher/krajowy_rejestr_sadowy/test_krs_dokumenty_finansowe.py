@@ -22,6 +22,7 @@ def test_krs_dokumenty_finansowe_class():
     assert krs_df_api.number_of_pages_with_documents == 4
     doc_list = krs_df_api.get_available_documents_list()
     assert len(doc_list) > 0
+    krs_df_api.get_document_by_name_and_date()
     krs_df_api.search_krs("0000000000")
     assert krs_df_api.throttling_error_from_webpage == False
     assert krs_df_api.information_about_no_documents_to_display_is_present == True
